@@ -11,10 +11,13 @@ Let us cooperate!
 use the following command to go back to an old commit.
 `get reset --hard <commit>`
 
+Reset the current branch to the state of the commit specified by the n-th previous commit in the commit history, discarding all changes made after that commit and moving the HEAD pointer to that commit.
+`get reset --hard Head@{n}`
+
 ## Branch
 
 Create branch with `git branch new` 
-and go to the branch via `git checkout -b new`
+and go to the branch via `git checkout new`
 
 ## Merge
 

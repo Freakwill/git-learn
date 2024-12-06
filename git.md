@@ -80,6 +80,7 @@ git branch -m 新分支名 #重命名分支
 ```shell
 git merge 分支
 git reset --hard HEAD^  # 恢复
+git reset --hard HEAD@{n}  # 恢复到前n个HEAD指向的commit
 ```
 
 
