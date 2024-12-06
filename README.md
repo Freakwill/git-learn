@@ -1,6 +1,6 @@
 # git-learn
-Let us learn how to use git command
 
+Let us learn how to use git command and GitHub
 
 Let us improve efficiency.
 

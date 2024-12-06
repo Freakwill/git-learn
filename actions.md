@@ -1,11 +1,10 @@
 
 ## Actions
 
-Folder: `.github/workflows/`
+1. create Folder: `.github/workflows/`
+2. pytest.yml under the folder
 
-
-pytest.yml:
-
+Example:
 ```yaml
 name: Pytest
 
