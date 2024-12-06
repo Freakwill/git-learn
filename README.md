@@ -39,7 +39,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Print OK
-        if: contains(github.event.head_commit.message, "print")
+        if: contains(github.event.head_commit.message, 'print')
         run: echo "OK!"
 ```
 
