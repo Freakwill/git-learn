@@ -20,3 +20,6 @@ and go to the branch via `git checkout -b new`
 
 merge new to main by `git merge new`
 
+## Action
+
+create `.github/workflows/*.yml`
