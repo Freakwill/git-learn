@@ -1,4 +1,4 @@
 # git-learn
 Let us learn how to use git command
 
-Let us cooperate!
+Let us improve efficiency.
